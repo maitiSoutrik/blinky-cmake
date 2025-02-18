@@ -2,6 +2,11 @@
 
 This is a simple blinky project for the STM32 Nucleo-F446RE board using CMake as the build system.
 
+## Demonstration
+
+![Blinky Demo](blinky-cmake.gif)
+
+
 ## Prerequisites
 
 - ARM GCC Toolchain (arm-none-eabi-gcc)
